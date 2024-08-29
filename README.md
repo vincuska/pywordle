@@ -1,5 +1,5 @@
 # pywordle
-wordle remade in python
+[Wordle](https://www.nytimes.com/games/wordle/index.html) remade in python
 
 ## Run Locally
 
